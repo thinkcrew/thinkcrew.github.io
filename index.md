@@ -1,2 +1,2 @@
 # Think Crew Documentation
-This is the documentation for Think Crew.
+This is the documentation for Think Crew
